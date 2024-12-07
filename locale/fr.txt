@@ -1,0 +1,13 @@
+#: locale=fr
+
+## Media
+
+### Title
+panorama_B1B6A0F6_A486_BD85_41E1_D9B1361D2428.label = Flow
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 13
